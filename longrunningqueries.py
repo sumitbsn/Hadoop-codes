@@ -1,8 +1,5 @@
 #!/usr/bin/python
 
-###Ansible: MySql Replication Alert
-## 0 */1 * * * root /root/mysql-replication/MySql-Replication-Alert.sh
-
 ## *******************************************************************************************
 ##  killLongRunningImpalaQueries.py
 ##
